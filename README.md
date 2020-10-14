@@ -27,4 +27,13 @@
 - **Step-3:** Enter protein sequence(s) in FASTA format or as whitespace-separated sequences **or** Or select file containing sequence(s)
 - **Step-4:** Show only frequently occuring alleles: Select MHC allele(s) > Allele > DRB1*01:01 > Length > 15
 - **Step-5:** Repeat: Show only frequently occuring alleles: Select MHC allele(s) > Allele > DRB1*01:03	 > Length > 15
-- **Step-6:** Submit 
+- **Step-6:** Submit
+
+## Team
+- Shaheen Alam[Team Lead, Genomics], shaheen@hdrobd.org
+- Mehedi Hasan, mehedi@hdrobd.org
+- Jubayer Hossain, jubayer@hdrobd.org
+- Rubaiya Gulshan Meem, rubaiya@hdrobd.org
+- Sumaiya Akter Mukta, sumaiya@hdrobd.org
+- Aminul Islam, aminul@hdrobd.org
+- Sharif Miah, sharif@hdrobd.org
